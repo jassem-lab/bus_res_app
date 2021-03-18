@@ -1,0 +1,7 @@
+::1 - - [09/Mar/2021:16:39:20 +0000] "GET / HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+::1 - - [09/Mar/2021:16:39:30 +0000] "GET /api/users HTTP/1.1" 500 33 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+::1 - - [09/Mar/2021:16:39:31 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8525/api/users" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+::1 - - [09/Mar/2021:16:44:40 +0000] "GET /api/users HTTP/1.1" - - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+::1 - - [09/Mar/2021:16:44:40 +0000] "GET /api/users HTTP/1.1" 200 151 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+::1 - - [09/Mar/2021:16:44:44 +0000] "GET / HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
+::1 - - [09/Mar/2021:16:44:45 +0000] "GET /api/users HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36"
